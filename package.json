@@ -20,6 +20,7 @@
     "apn": "^2.2.0",
     "google-calendar": "^1.3.2",
     "node-gcm": "^1.0.2",
-    "push-notification": "^0.2.5"
+    "push-notification": "^0.2.5",
+    "qs": "^6.5.2"
   }
 }
