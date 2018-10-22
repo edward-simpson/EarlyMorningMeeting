@@ -1,0 +1,6 @@
+// Don't commit the settings file dummy
+/JS/config
+/JS/node_modules
+/PHP/config
+/PHP/vendor
+/config

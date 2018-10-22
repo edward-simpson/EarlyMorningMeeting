@@ -1,0 +1,15 @@
+{
+    "name": "edwardsimpson/php",
+    "description": "Early Morning Meeting PHP version",
+    "type": "project",
+    "require": {
+        "google/apiclient": "^2.2"
+    },
+    "license": "none",
+    "authors": [
+        {
+            "name": "Edward Simpson",
+            "email": "edwardjamessimpson@gmail.com"
+        }
+    ]
+}
