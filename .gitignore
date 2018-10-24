@@ -4,3 +4,5 @@
 /PHP/config
 /PHP/vendor
 /config
+.idea
+*.pyc
